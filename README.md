@@ -11,26 +11,26 @@ I created a Jupyter Notebook using IBM Watson Studio using Python. I included a 
 - Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and must display an output. Try to keep the code simple (it can even be "1 + 1").
 - Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
 
-File:My_Jupyter_Notebook_on_IBM_Watson_Studio.ipynb
+File: My_Jupyter_Notebook_on_IBM_Watson_Studio.ipynb
 
 ## Python for Data Science and AI: 
 
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, I extracted some essential economic indicators from some data, I  then displayed these economic indicators in a Dashboard.
 Gross domestic product (GDP) is a measure of the market value of all the final goods and services produced in a period. GDP is an indicator of how well the economy is doing. A drop in GDP indicates the economy is producing less; similarly an increase in GDP suggests the economy is performing better. In this assignment I examineed how changes in GDP impact the unemployment rate.
 
-File:Python_for_Data_Science_and_AI_Final_Assessment.ipynb
+File: Python_for_Data_Science_and_AI_Final_Assessment.ipynb
 
 ##  Databases and SQL for Data Science:  
 
 As a hands-on Data Science Assignment, I worked on a real world dataset provided by the Chicago Data Portal. I answered the questions  asked that           helped me understand the data just like a data scientist would. 
 
-File:DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb 
+File: DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb 
 
 ## Data Analysis with Python 
 
 In this assignment, I worked at a real estate investment trust data. The trust wanted to start investing in Residential real estate. I was  tasked with determining the market price of a house given a set of features.I  analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on. A template notebook was provided in the lab; I had to complete the ten questions asked. I used Watson Studio to perform the analysis. 
 
-File:Data_Analysis_with_Python_Final_Project.ipynb
+File: Data_Analysis_with_Python_Final_Project.ipynb
 
 ## Data Visualization with Python
 

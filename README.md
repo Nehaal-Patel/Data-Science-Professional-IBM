@@ -16,5 +16,7 @@ As a hands-on Data Science Assignment, I worked on a real world dataset provided
 
 In this assignment, I worked at a real estate investment trust data. The trust wanted to start investing in Residential real estate. I was  tasked with determining the market price of a house given a set of features.I  analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on. A template notebook was provided in the lab; I had to complete the ten questions asked. I used Watson Studio to perform the analysis. File: Data_Analysis_with_Python_Final_Project.ipynb
 
+## Data Visualization with Python
 
+In this Assignment, I demonstrated the data visualization skills I learned. I generated two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco. File: 
     

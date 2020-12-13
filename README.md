@@ -35,4 +35,23 @@ File: Data_Analysis_with_Python_Final_Project.ipynb
 ## Data Visualization with Python
 
 In this Assignment, I demonstrated the data visualization skills I learned. I generated two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco. File: 
+
+## Machine Learning with Python
+
+ In this assignment, I completed a notebook where I  built a classifier to predict whether a loan case will be paid off or not.
+
+I loaded a historical dataset from previous loan applications, cleaned the data, and apply different classification algorithm on the data. 
+
+I used the following algorithms to build  models:
+
+- k-Nearest Neighbour
+- Decision Tree
+- Support Vector Machine
+- Logistic Regression
+
+The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
+
+- Jaccard index
+- F1-score
+- LogLoass
     

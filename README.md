@@ -10,7 +10,7 @@ I created a Jupyter Notebook using IBM Watson Studio using Python. I included a 
 - Cell 4 (rendered as Markdown): In H3 header styling, explain in a short sentence what your code is supposed to do in Cell 5.
 - Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and must display an output. Try to keep the code simple (it can even be "1 + 1").
 - Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
-My_Jupyter_Notebook_on_IBM_Watson_Studio.ipynb
+File: My_Jupyter_Notebook_on_IBM_Watson_Studio.ipynb
 
 ## Python for Data Science and AI: 
 

@@ -1,7 +1,6 @@
 # Data-Science-Professional-IBM
 IBM Data Science Professional Certificate
 
-![alt text](https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg)
 
 About this Professional Certificate
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
@@ -58,7 +57,9 @@ File: Data_Analysis_with_Python_Final_Project.ipynb
 
 ## Data Visualization with Python
 
-In this Assignment, I demonstrated the data visualization skills I learned. I generated two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco. File: 
+In this Assignment, I demonstrated the data visualization skills I learned. I generated two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco. 
+
+File: Data-Visualization-with-Python-Final-Assignment.ipynb
 
 ## Machine Learning with Python
 

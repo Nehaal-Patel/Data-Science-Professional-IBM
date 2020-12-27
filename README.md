@@ -83,4 +83,20 @@ The results is reported as the accuracy of each classifier, using the following 
 File: Machine_Learning with_Python:_Best_classifier.ipynb
 
 ## Applied Data Science Capstone
+I explored, segmented, and cluster the neighborhoods in the city of Toronto. However, unlike New York, the neighborhood data is not readily available on the internet. What is interesting about the field of data science is that each project can be challenging in its unique way, so I learned to be agile and refine the skill to learn new libraries and tools quickly depending on the project. For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. I was required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas  dataframe so that it is in a structured format like the New York dataset. Once the data is in a structured format, I replicated the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
+    ## Final Project 
+    In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
+
+    A full report consisting of all of the following components (15 marks):
+    Introduction where you discuss the business problem and who would be interested in this project.
+    Data where you describe the data that will be used to solve the problem and the source of the data.
+    Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any               inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+    Results section where you discuss the results.
+    Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+    Conclusion section where you conclude the report.
+    A link to your Notebook on your GitHub repository pushed showing your code.
+
+    Report: https://cocl.us/coursera_capstone_report
+    Notebook: https://cocl.us/coursera_capstone_notebook
+    Presentation: https://cocl.us/coursera_capstone_presentation

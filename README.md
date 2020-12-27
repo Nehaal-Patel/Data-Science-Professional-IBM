@@ -87,6 +87,8 @@ File: Machine_Learning with_Python:_Best_classifier.ipynb
 ## Applied Data Science Capstone
 I explored, segmented, and cluster the neighborhoods in the city of Toronto. However, unlike New York, the neighborhood data is not readily available on the internet. What is interesting about the field of data science is that each project can be challenging in its unique way, so I learned to be agile and refine the skill to learn new libraries and tools quickly depending on the project. For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. I was required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas  dataframe so that it is in a structured format like the New York dataset. Once the data is in a structured format, I replicated the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
+File: [GitHub Pages](https://pages.github.com/)
+
    ### Final Project 
    In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
 

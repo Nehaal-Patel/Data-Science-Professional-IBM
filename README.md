@@ -81,3 +81,6 @@ The results is reported as the accuracy of each classifier, using the following 
 - LogLoass
     
 File: Machine_Learning with_Python:_Best_classifier.ipynb
+
+## Applied Data Science Capstone
+

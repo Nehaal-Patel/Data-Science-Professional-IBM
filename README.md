@@ -36,7 +36,7 @@ I created a Jupyter Notebook using IBM Watson Studio using Python. I included a 
 - Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and must display an output. Try to keep the code simple (it can even be "1 + 1").
 - Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
 
-**File: [Python-for-Data-Science-and-AI-Final-Assessment.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Python-for-Data-Science-and-AI/Python-for-Data-Science-and-AI-Final-Assessment.ipynb)**
+**File: [My-Jupyter-Notebook-on-IBM-Watson-Studio.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Tools-of-Data-Science/My-Jupyter-Notebook-on-IBM-Watson-Studio.ipynb)**
 
 
 ## Python for Data Science and AI: 

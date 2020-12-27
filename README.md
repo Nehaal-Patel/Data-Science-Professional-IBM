@@ -50,19 +50,21 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 
 As a hands-on Data Science Assignment, I worked on a real world dataset provided by the Chicago Data Portal. I answered the questions  asked that           helped me understand the data just like a data scientist would. 
 
-File: DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb 
+**File: [DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Databases-and-SQL-for-Data-Science/DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb)**
+
 
 ## Data Analysis with Python 
 
 In this assignment, I worked at a real estate investment trust data. The trust wanted to start investing in Residential real estate. I was  tasked with determining the market price of a house given a set of features.I  analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on. A template notebook was provided in the lab; I had to complete the ten questions asked. I used Watson Studio to perform the analysis. 
 
-File: Data_Analysis_with_Python_Final_Project.ipynb
+**File: [Data-Analysis-with-Python-Final-Project.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Data-Analysis-with-Python/Data-Analysis-with-Python-Final-Project.ipynb)**
+
 
 ## Data Visualization with Python
 
 In this Assignment, I demonstrated the data visualization skills I learned. I generated two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco. 
 
-File: Data-Visualization-with-Python-Final-Assignment.ipynb
+**File: [Data-Visualization-with-Python-Final-Assignment.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Data-Visualization-with-Python/Data-Visualization-with-Python-Final-Assignment.ipynb)**
 
 ## Machine Learning with Python
 
@@ -83,7 +85,7 @@ The results is reported as the accuracy of each classifier, using the following 
 - F1-score
 - LogLoass
     
-File: Machine_Learning with_Python:_Best_classifier.ipynb
+**File: [Machine-Learning-with-Python:Best-classifier.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Machine-Learning-with-Python/Machine-Learning-with-Python:Best-classifier.ipynb)**
 
 ## Applied Data Science Capstone
 I explored, segmented, and cluster the neighborhoods in the city of Toronto. However, unlike New York, the neighborhood data is not readily available on the internet. What is interesting about the field of data science is that each project can be challenging in its unique way, so I learned to be agile and refine the skill to learn new libraries and tools quickly depending on the project. For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. I was required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas  dataframe so that it is in a structured format like the New York dataset. Once the data is in a structured format, I replicated the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.

@@ -44,7 +44,7 @@ I created a Jupyter Notebook using IBM Watson Studio using Python. I included a 
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, I extracted some essential economic indicators from some data, I  then displayed these economic indicators in a Dashboard.
 Gross domestic product (GDP) is a measure of the market value of all the final goods and services produced in a period. GDP is an indicator of how well the economy is doing. A drop in GDP indicates the economy is producing less; similarly an increase in GDP suggests the economy is performing better. In this assignment I examineed how changes in GDP impact the unemployment rate.
 
-File: Python_for_Data_Science_and_AI_Final_Assessment.ipynb
+**File: [Python-for-Data-Science-and-AI-Final-Assessment.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Python-for-Data-Science-and-AI/Python-for-Data-Science-and-AI-Final-Assessment.ipynb)**
 
 ##  Databases and SQL for Data Science:  
 

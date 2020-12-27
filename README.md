@@ -97,6 +97,6 @@ I explored, segmented, and cluster the neighborhoods in the city of Toronto. How
    Conclusion section where you conclude the report.
    A link to your Notebook on your GitHub repository pushed showing your code.
 
-   Report: https://cocl.us/coursera_capstone_report
-   Notebook: https://cocl.us/coursera_capstone_notebook
-   Presentation: https://cocl.us/coursera_capstone_presentation
+   - Report: https://cocl.us/coursera_capstone_report
+   - Notebook: https://cocl.us/coursera_capstone_notebook
+   - Presentation: https://cocl.us/coursera_capstone_presentation

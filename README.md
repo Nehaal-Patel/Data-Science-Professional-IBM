@@ -101,6 +101,7 @@ I explored, segmented, and cluster the neighborhoods in the city of Toronto. How
    Conclusion section where you conclude the report.
    A link to your Notebook on your GitHub repository pushed showing your code.
 
-   - **Report: [Battle-of-Neighbourhoods-Barcelona-Madrid-Report.ipynb](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid-Report.ipynb)**
-   - **Notebook: https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid.ipynb**
-   - **Presentation: https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Applied%20Capstone-Battle-of-the-Neighbourhoods-Barcelona-and-Madrid-PPT.pdf**
+   - **Report: [Battle-of-Neighbourhoods-Barcelona-Madrid-Report](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid-Report.ipynb)**
+   - **Notebook: [Battle-of-Neighbourhoods-Barcelona-Madrid](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid.ipynb)**
+   - **Presentation: [Battle-of-Neighbourhoods-Barcelona-Madrid-PPT](https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Applied%20Capstone-Battle-of-the-Neighbourhoods-Barcelona-and-Madrid-PPT.pdf)**
+  

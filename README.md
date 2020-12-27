@@ -1,5 +1,6 @@
 # Data-Science-Professional-IBM
 IBM Data Science Professional Certificate
+![alt text](https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg)
 
 
 About this Professional Certificate

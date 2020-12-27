@@ -99,4 +99,4 @@ I explored, segmented, and cluster the neighborhoods in the city of Toronto. How
 
    - Report: https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid-Report.ipynb
    - Notebook: https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Battle-of-Neighbourhoods-Barcelona-Madrid.ipynb
-   - Presentation: https://cocl.us/coursera_capstone_presentation
+   - Presentation: https://github.com/Nehaal-Patel/Data-Science-Professional-IBM/blob/master/Applied-Data-Science-Capstone/Applied%20Capstone-Battle-of-the-Neighbourhoods-Barcelona-and-Madrid-PPT.pdf
